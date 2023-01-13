@@ -4,10 +4,6 @@
  Java JDK 11
  IDE para desenvolvimento Java
  Conhecer a sintaxe Java
-📚 Ementa
-Ao assistir este curso, Dev será capaz de entender na prática como trabalhar com as estruturas de repetição (while/do-while/for) e arrays. Se tratando de arrays, também vamos conhecer a estrutura foreach.
-
-
 
 ➿ ESTRUTURAS DE REPETIÇÃO
 🔸 O real poder dos computadores está na sua habilidade para repetir uma operação ou uma série de operações várias vezes (loop).
